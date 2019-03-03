@@ -9,6 +9,8 @@ Justin Domingus](https://www.nginx.com/resources/library/cloud-native-devops-wit
 - [Deep learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.deeplearningbook.org/)
 - [How to be a Programmer by Robert L. Read](https://braydie.gitbooks.io/how-to-be-a-programmer/content/)
 - [Interpretable Machine Learning by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/intro.html)
+- [Machine Learning Yearning by Andrew Ng](https://www.deeplearning.ai/machine-learning-yearning/)
+- [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
 - [Reinforcement Learning (2nd ed) by Richard S. Sutton, Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - [Test-Driven Development with Python by Harry J.W. Percival](https://www.obeythetestinggoat.com/)
 
