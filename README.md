@@ -12,6 +12,7 @@ Justin Domingus](https://www.nginx.com/resources/library/cloud-native-devops-wit
 - [Machine Learning Yearning by Andrew Ng](https://www.deeplearning.ai/machine-learning-yearning/)
 - [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
 - [Reinforcement Learning (2nd ed) by Richard S. Sutton, Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [SICP in Python3](https://composingprograms.com/)
 - [Test-Driven Development with Python by Harry J.W. Percival](https://www.obeythetestinggoat.com/)
 
 ## ancient writings
