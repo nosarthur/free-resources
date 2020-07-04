@@ -4,7 +4,7 @@ A compilation of free online resources.
 ## science and technology
 - [Algorithms by Jeff Erickson](https://github.com/jeffgerickson/algorithms)
 - [Advanced Linux Programming by Mark Mitchell, Jeffrey Oldham, Alex Samuel](http://www.makelinux.net/alp/)
-- [Cloud Native DevOps With Kubernetes by John Arundel and 
+- [Cloud Native DevOps With Kubernetes by John Arundel and
 Justin Domingus](https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/)
 - [Deep learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville](https://www.deeplearningbook.org/)
 - [How to be a Programmer by Robert L. Read](https://braydie.gitbooks.io/how-to-be-a-programmer/content/)
@@ -14,6 +14,9 @@ Justin Domingus](https://www.nginx.com/resources/library/cloud-native-devops-wit
 - [Reinforcement Learning (2nd ed) by Richard S. Sutton, Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - [SICP in Python3 by John DeNero](https://composingprograms.com/)
 - [Test-Driven Development with Python by Harry J.W. Percival](https://www.obeythetestinggoat.com/)
+
+## Springer books
+- [A collection of free books from Springer](https://hnarayanan.github.io/springer-books/)
 
 ## ancient writings
 - [Chinese Text Project](https://ctext.org/)
